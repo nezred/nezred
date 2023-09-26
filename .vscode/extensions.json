@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "znck.grammarly",
+        "bierner.markdown-mermaid",
+        "mdickin.markdown-shortcuts",
+        "davidanson.vscode-markdownlint",
+        "cweijan.vscode-office"
+    ]
+}
