@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+#### Holopins badge wall:
+[![An image of @nezred's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nezred)](https://holopin.io/@nezred)
+
 <!--
 **nezred/nezred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
