@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi 😄
 
 <!--## Holo pins badge wall
 
@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nezred)](https://github.com/ryo-ma/github-profile-trophy)
