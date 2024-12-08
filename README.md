@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 ## Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nezred)](https://github.com/ryo-ma/github-profile-trophy)
+
+<a rel='me' href='https://masto.ai/@nezred'></a>
